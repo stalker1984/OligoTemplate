@@ -1,7 +1,7 @@
 {"config" : [
 
 
-		{"name": 1, "seqence": 2},
+		{"name": 3, "seqence": 4},
 		
 		{"VolOneBase": 0.100, "DeadVol": 0.5, "Amd": 1.0, "MeCN": 20.0},
  		
